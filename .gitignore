@@ -1,0 +1,16 @@
+dea/
+.idea/*
+**/*DS_Store
+.DS_Store
+# Environments
+.venv/
+env/
+venv/
+ENV/
+# mypy
+.mypy_cache/
+# pyenv
+.python-version
+app/__pycache__/
+# Unit test /
+tests/__pycache__/
